@@ -1,12 +1,9 @@
 {
   "type": "micro",
   "wake_word": "maripili",
-  "author": "",
-  "website": "",
+  "author": "Victor",
+  "website": "https://github.com/fantasio1976/wake-word",
   "model": "https://github.com/fantasio1976/wake-word/raw/main/maripili.tflite",
-  "trained_languages": [
-    "en"
-  ],
   "version": 2,
   "micro": {
     "probability_cutoff": 0.5,
