@@ -3,7 +3,7 @@
   "wake_word": "maripili",
   "author": "Victor",
   "website": "https://github.com/fantasio1976/wake-word",
-  "model": "https://github.com/fantasio1976/wake-word/raw/main/maripili.tflite",
+  "model": "maripili.tflite",
   "version": 2,
   "micro": {
     "probability_cutoff": 0.5,
